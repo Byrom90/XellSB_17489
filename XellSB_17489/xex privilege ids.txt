@@ -1,0 +1,59 @@
+A copy pastable list of privilege ids that can be added to Xbox 360 xex projects config .xml
+List source: https://github.com/emoose/idaxex/blob/master/xex1tool.cpp
+
+  <privilege id="0"/> <!-- No Force Reboot -->
+  <privilege id="1"/> <!-- Foreground Tasks -->
+  <privilege id="2"/> <!-- No ODD Mapping -->
+  <privilege id="3"/> <!-- Handles MCE Input -->
+  <privilege id="4"/> <!-- Restricted HUD Features -->
+  <privilege id="5"/> <!-- Handles Gampad Disconnect -->
+  <privilege id="6"/> <!-- Insecure Sockets -->
+  <privilege id="7"/> <!-- Xbox1 Interoperability -->
+  <privilege id="8"/> <!-- Dash Context -->
+  <privilege id="9"/> <!-- Uses Game Voice Channel -->
+  <privilege id="10"/> <!-- Pal50 Incompatible -->
+  <privilege id="11"/> <!-- Insecure Utility Drive Support -->
+  <privilege id="12"/> <!-- Xam Hooks -->
+  <privilege id="13"/> <!-- PII -->
+  <privilege id="14"/> <!-- Cross Platform System Link -->
+  <privilege id="15"/> <!-- Multidisc Swap -->
+  <privilege id="16"/> <!-- Supports Insecure Multidisc Media -->
+  <privilege id="17"/> <!-- AP25 Media -->
+  <privilege id="18"/> <!-- No Confirm Exit -->
+  <privilege id="19"/> <!-- Allow Background Downloading -->
+  <privilege id="20"/> <!-- Create Persistable Ram Drive -->
+  <privilege id="21"/> <!-- Inherit Persistent Ram Drive -->
+  <privilege id="22"/> <!-- Allow HUD Vibration -->
+  <privilege id="23"/> <!-- Can Use Both Utility Partitions -->
+  <privilege id="24"/> <!-- Handles IPTV Input -->
+  <privilege id="25"/> <!-- Prefers Big Button Input -->
+  <privilege id="26"/> <!-- Allow Xsam Reservation -->
+  <privilege id="27"/> <!-- Multidisc Cross Title -->
+  <privilege id="28"/> <!-- Title Install Incompatible -->
+  <privilege id="29"/> <!-- Allow Avatar Get Metadata By XUID -->
+  <privilege id="30"/> <!-- Allow Controller Swapping -->
+  <privilege id="31"/> <!-- Dash Extensibility Module -->
+  <privilege id="32"/> <!-- Allow Network Read Cancel -->
+  <privilege id="33"/> <!-- Uninterruptable Reads -->
+  <privilege id="34"/> <!-- Requires NXE -->
+  <privilege id="35"/> <!-- Game Voice Required UI -->
+  <privilege id="36"/> <!-- Sets Presence String -->
+  <privilege id="37"/> <!-- Natal Tilt Control -->
+  <privilege id="38"/> <!-- Requires Skeletal Tracking -->
+  <privilege id="39"/> <!-- Supports Skeletal Tracking -->
+  <privilege id="40"/> <!-- Uses Large HDs File Cache -->
+  <privilege id="41"/> <!-- Supports Deep Link -->
+  <privilege id="42"/> <!-- Supports Body Profile -->
+  <privilege id="43"/> <!-- Supports WinUSB -->
+  <privilege id="44"/> <!-- Supports Deep Link Refresh -->
+  <privilege id="45"/> <!-- Local Only Sockets -->
+  <privilege id="46"/> <!-- Title Content Acquire And Download -->
+  <privilege id="47"/> <!-- Allow System Foreground -->
+
+
+
+
+
+
+
+       
